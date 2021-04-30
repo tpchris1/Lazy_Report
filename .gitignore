@@ -1,0 +1,14 @@
+# docs (裡面目前有機密資訊)
+docs/
+
+# python文件
+**/__pycache__/
+
+# db文件
+*.sqlite3
+
+# 暫存文件
+temp.ipynb
+
+# 其他
+nohup.out

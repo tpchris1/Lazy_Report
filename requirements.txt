@@ -1,0 +1,6 @@
+django
+line-bot-sdk
+requests
+djangorestframework
+django-filter  
+markdown
